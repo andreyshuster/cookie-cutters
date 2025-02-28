@@ -1,5 +1,6 @@
 #!/usr/bin/env bb
 ;; babashka script to create new clojure project with deps.edn
+;; created with help of Grok
 
 (require '[babashka.fs :as fs]
          '[clojure.string :as str])
